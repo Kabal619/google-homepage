@@ -1,0 +1,52 @@
+#header {
+	position: relative;
+	float: right;
+}
+
+#content {
+	position: absolute;
+	text-align: center;
+}
+
+.header {
+	list-style-type: none;
+}
+
+li {
+	display: inline;
+}
+
+.blue {
+	color: white;
+	font-weight: bold;
+	background-color: #4285F4;
+	border-radius: 2px;
+}
+
+a {
+	text-decoration: none;
+}
+
+#footer {
+	display: block;
+	position: absolute;
+	bottom: 0px;
+	background-color: #f2f2f2;
+	width: 99%;
+}
+
+.left {
+	position :absolute;
+}
+.right {
+	float: right;
+}
+
+form {
+	padding: 20px;
+	text-align: center;
+}
+
+form {
+	font-weight: bold;
+}
